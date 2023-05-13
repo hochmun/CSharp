@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\bin\Debug\net7.0\연습문제.exe
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\bin\Debug\net7.0\연습문제.deps.json
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\bin\Debug\net7.0\연습문제.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\bin\Debug\net7.0\연습문제.dll
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\bin\Debug\net7.0\연습문제.pdb
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.dll
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\refint\연습문제.dll
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.pdb
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\연습문제.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch02\연습문제\obj\Debug\net7.0\ref\연습문제.dll
