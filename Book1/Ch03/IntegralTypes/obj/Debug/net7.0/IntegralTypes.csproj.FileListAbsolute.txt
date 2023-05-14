@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\bin\Debug\net7.0\IntegralTypes.exe
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\bin\Debug\net7.0\IntegralTypes.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\bin\Debug\net7.0\IntegralTypes.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\bin\Debug\net7.0\IntegralTypes.dll
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\bin\Debug\net7.0\IntegralTypes.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.dll
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\refint\IntegralTypes.dll
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\IntegralTypes.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralTypes\obj\Debug\net7.0\ref\IntegralTypes.dll
