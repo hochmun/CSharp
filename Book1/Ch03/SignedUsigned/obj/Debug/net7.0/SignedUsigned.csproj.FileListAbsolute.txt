@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\bin\Debug\net7.0\SignedUsigned.exe
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\bin\Debug\net7.0\SignedUsigned.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\bin\Debug\net7.0\SignedUsigned.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\bin\Debug\net7.0\SignedUsigned.dll
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\bin\Debug\net7.0\SignedUsigned.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.dll
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\refint\SignedUsigned.dll
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\SignedUsigned.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUsigned\obj\Debug\net7.0\ref\SignedUsigned.dll

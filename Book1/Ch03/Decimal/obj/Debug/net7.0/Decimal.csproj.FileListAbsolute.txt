@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\bin\Debug\net7.0\Decimal.exe
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\bin\Debug\net7.0\Decimal.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\bin\Debug\net7.0\Decimal.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\bin\Debug\net7.0\Decimal.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\bin\Debug\net7.0\Decimal.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\refint\Decimal.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\Decimal.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Decimal\obj\Debug\net7.0\ref\Decimal.dll
