@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\bin\Debug\net7.0\Enum3.exe
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\bin\Debug\net7.0\Enum3.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\bin\Debug\net7.0\Enum3.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\bin\Debug\net7.0\Enum3.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\bin\Debug\net7.0\Enum3.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\refint\Enum3.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\Enum3.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Enum3\obj\Debug\net7.0\ref\Enum3.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\bin\Debug\net7.0\SignedUnsignedConversion.exe
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\bin\Debug\net7.0\SignedUnsignedConversion.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\bin\Debug\net7.0\SignedUnsignedConversion.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\bin\Debug\net7.0\SignedUnsignedConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\bin\Debug\net7.0\SignedUnsignedConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\refint\SignedUnsignedConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\SignedUnsignedConversion.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\SignedUnsignedConversion\obj\Debug\net7.0\ref\SignedUnsignedConversion.dll

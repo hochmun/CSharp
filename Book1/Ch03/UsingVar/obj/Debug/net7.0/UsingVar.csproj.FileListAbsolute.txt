@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\bin\Debug\net7.0\UsingVar.exe
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\bin\Debug\net7.0\UsingVar.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\bin\Debug\net7.0\UsingVar.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\bin\Debug\net7.0\UsingVar.dll
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\bin\Debug\net7.0\UsingVar.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.dll
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\refint\UsingVar.dll
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\UsingVar.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\UsingVar\obj\Debug\net7.0\ref\UsingVar.dll

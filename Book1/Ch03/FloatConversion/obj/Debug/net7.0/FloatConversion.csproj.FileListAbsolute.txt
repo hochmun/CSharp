@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\bin\Debug\net7.0\FloatConversion.exe
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\bin\Debug\net7.0\FloatConversion.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\bin\Debug\net7.0\FloatConversion.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\bin\Debug\net7.0\FloatConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\bin\Debug\net7.0\FloatConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\refint\FloatConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\FloatConversion.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatConversion\obj\Debug\net7.0\ref\FloatConversion.dll

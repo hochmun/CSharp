@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\bin\Debug\net7.0\IntegralConversion.exe
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\bin\Debug\net7.0\IntegralConversion.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\bin\Debug\net7.0\IntegralConversion.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\bin\Debug\net7.0\IntegralConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\bin\Debug\net7.0\IntegralConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\refint\IntegralConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\IntegralConversion.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\IntegralConversion\obj\Debug\net7.0\ref\IntegralConversion.dll

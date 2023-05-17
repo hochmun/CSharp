@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\bin\Debug\net7.0\Constant.exe
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\bin\Debug\net7.0\Constant.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\bin\Debug\net7.0\Constant.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\bin\Debug\net7.0\Constant.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\bin\Debug\net7.0\Constant.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\refint\Constant.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\Constant.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Constant\obj\Debug\net7.0\ref\Constant.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.exe
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.dll
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\bin\Debug\net7.0\FloatToIntegral.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.dll
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\refint\FloatToIntegral.dll
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\FloatToIntegral.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\FloatToIntegral\obj\Debug\net7.0\ref\FloatToIntegral.dll

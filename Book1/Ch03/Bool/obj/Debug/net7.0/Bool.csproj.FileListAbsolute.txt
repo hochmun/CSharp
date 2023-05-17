@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\bin\Debug\net7.0\Bool.exe
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\bin\Debug\net7.0\Bool.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\bin\Debug\net7.0\Bool.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\bin\Debug\net7.0\Bool.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\bin\Debug\net7.0\Bool.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\refint\Bool.dll
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\Bool.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\Bool\obj\Debug\net7.0\ref\Bool.dll

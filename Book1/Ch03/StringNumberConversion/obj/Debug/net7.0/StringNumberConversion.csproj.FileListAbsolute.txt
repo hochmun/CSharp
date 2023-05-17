@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\bin\Debug\net7.0\StringNumberConversion.exe
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\bin\Debug\net7.0\StringNumberConversion.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\bin\Debug\net7.0\StringNumberConversion.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\bin\Debug\net7.0\StringNumberConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\bin\Debug\net7.0\StringNumberConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\refint\StringNumberConversion.dll
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\StringNumberConversion.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\StringNumberConversion\obj\Debug\net7.0\ref\StringNumberConversion.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.exe
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.deps.json
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.dll
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.dll
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\refint\BoxingUnboxing.dll
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.pdb
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch03\BoxingUnboxing\obj\Debug\net7.0\ref\BoxingUnboxing.dll
