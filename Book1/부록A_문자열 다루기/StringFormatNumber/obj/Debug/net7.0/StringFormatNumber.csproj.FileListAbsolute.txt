@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\bin\Debug\net7.0\StringFormatNumber.exe
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\bin\Debug\net7.0\StringFormatNumber.deps.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\bin\Debug\net7.0\StringFormatNumber.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\bin\Debug\net7.0\StringFormatNumber.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\bin\Debug\net7.0\StringFormatNumber.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\refint\StringFormatNumber.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\StringFormatNumber.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatNumber\obj\Debug\net7.0\ref\StringFormatNumber.dll

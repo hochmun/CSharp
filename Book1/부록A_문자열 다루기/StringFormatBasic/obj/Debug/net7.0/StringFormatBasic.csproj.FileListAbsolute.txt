@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.exe
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.deps.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\refint\StringFormatBasic.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringFormatBasic\obj\Debug\net7.0\ref\StringFormatBasic.dll

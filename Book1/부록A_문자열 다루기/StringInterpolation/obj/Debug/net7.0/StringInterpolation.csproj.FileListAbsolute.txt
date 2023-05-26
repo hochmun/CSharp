@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\bin\Debug\net7.0\StringInterpolation.exe
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\bin\Debug\net7.0\StringInterpolation.deps.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\bin\Debug\net7.0\StringInterpolation.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\bin\Debug\net7.0\StringInterpolation.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\bin\Debug\net7.0\StringInterpolation.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\refint\StringInterpolation.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\StringInterpolation.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringInterpolation\obj\Debug\net7.0\ref\StringInterpolation.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\bin\Debug\net7.0\StringModify.exe
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\bin\Debug\net7.0\StringModify.deps.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\bin\Debug\net7.0\StringModify.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\bin\Debug\net7.0\StringModify.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\bin\Debug\net7.0\StringModify.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\refint\StringModify.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\StringModify.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringModify\obj\Debug\net7.0\ref\StringModify.dll

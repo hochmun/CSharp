@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\bin\Debug\net7.0\StringSlice.exe
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\bin\Debug\net7.0\StringSlice.deps.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\bin\Debug\net7.0\StringSlice.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\bin\Debug\net7.0\StringSlice.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\bin\Debug\net7.0\StringSlice.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\refint\StringSlice.dll
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.pdb
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\StringSlice.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\부록A_문자열 다루기\StringSlice\obj\Debug\net7.0\ref\StringSlice.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\bin\Debug\net7.0\1000.exe
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\bin\Debug\net7.0\1000.deps.json
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\bin\Debug\net7.0\1000.runtimeconfig.json
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\bin\Debug\net7.0\1000.dll
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\bin\Debug\net7.0\1000.pdb
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.dll
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\refint\1000.dll
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.pdb
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\1000.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Baekjoon\입출력과 사칙연산\1000\obj\Debug\net7.0\ref\1000.dll
