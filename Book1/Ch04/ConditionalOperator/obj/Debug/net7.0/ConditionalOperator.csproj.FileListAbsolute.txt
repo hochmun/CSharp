@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.exe
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\refint\ConditionalOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\ConditionalOperator\obj\Debug\net7.0\ref\ConditionalOperator.dll

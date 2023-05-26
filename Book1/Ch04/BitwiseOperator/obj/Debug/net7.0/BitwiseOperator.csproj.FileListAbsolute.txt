@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\bin\Debug\net7.0\BitwiseOperator.exe
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\bin\Debug\net7.0\BitwiseOperator.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\bin\Debug\net7.0\BitwiseOperator.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\bin\Debug\net7.0\BitwiseOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\bin\Debug\net7.0\BitwiseOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\refint\BitwiseOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\BitwiseOperator.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\BitwiseOperator\obj\Debug\net7.0\ref\BitwiseOperator.dll

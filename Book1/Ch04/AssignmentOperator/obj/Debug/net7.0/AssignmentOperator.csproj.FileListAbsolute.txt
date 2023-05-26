@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\bin\Debug\net7.0\AssignmentOperator.exe
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\bin\Debug\net7.0\AssignmentOperator.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\bin\Debug\net7.0\AssignmentOperator.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\bin\Debug\net7.0\AssignmentOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\bin\Debug\net7.0\AssignmentOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\refint\AssignmentOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\AssignmentOperator.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\AssignmentOperator\obj\Debug\net7.0\ref\AssignmentOperator.dll

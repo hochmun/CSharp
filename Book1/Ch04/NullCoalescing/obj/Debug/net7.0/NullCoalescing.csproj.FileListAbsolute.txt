@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\bin\Debug\net7.0\NullCoalescing.exe
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\bin\Debug\net7.0\NullCoalescing.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\bin\Debug\net7.0\NullCoalescing.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\bin\Debug\net7.0\NullCoalescing.dll
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\bin\Debug\net7.0\NullCoalescing.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.dll
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\refint\NullCoalescing.dll
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\NullCoalescing.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullCoalescing\obj\Debug\net7.0\ref\NullCoalescing.dll

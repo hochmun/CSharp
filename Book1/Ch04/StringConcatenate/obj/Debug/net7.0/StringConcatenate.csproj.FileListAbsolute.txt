@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\bin\Debug\net7.0\StringConcatenate.exe
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\bin\Debug\net7.0\StringConcatenate.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\bin\Debug\net7.0\StringConcatenate.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\bin\Debug\net7.0\StringConcatenate.dll
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\bin\Debug\net7.0\StringConcatenate.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.dll
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\refint\StringConcatenate.dll
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\StringConcatenate.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\StringConcatenate\obj\Debug\net7.0\ref\StringConcatenate.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\bin\Debug\net7.0\NullConditionalOperator.exe
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\bin\Debug\net7.0\NullConditionalOperator.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\bin\Debug\net7.0\NullConditionalOperator.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\bin\Debug\net7.0\NullConditionalOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\bin\Debug\net7.0\NullConditionalOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\refint\NullConditionalOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\NullConditionalOperator.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\NullConditionalOperator\obj\Debug\net7.0\ref\NullConditionalOperator.dll

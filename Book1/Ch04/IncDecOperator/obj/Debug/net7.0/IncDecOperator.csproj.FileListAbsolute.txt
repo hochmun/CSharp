@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\bin\Debug\net7.0\IncDecOperator.exe
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\bin\Debug\net7.0\IncDecOperator.deps.json
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\bin\Debug\net7.0\IncDecOperator.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\bin\Debug\net7.0\IncDecOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\bin\Debug\net7.0\IncDecOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\refint\IncDecOperator.dll
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.pdb
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\IncDecOperator.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch04\IncDecOperator\obj\Debug\net7.0\ref\IncDecOperator.dll
