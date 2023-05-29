@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\Break\bin\Debug\net7.0\Break.exe
+D:\eclipse-workspace\C#\Book1\Ch05\Break\bin\Debug\net7.0\Break.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\Break\bin\Debug\net7.0\Break.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\Break\bin\Debug\net7.0\Break.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Break\bin\Debug\net7.0\Break.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\refint\Break.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\Break.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Break\obj\Debug\net7.0\ref\Break.dll

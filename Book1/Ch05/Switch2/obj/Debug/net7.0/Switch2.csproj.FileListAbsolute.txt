@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\bin\Debug\net7.0\Switch2.exe
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\bin\Debug\net7.0\Switch2.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\bin\Debug\net7.0\Switch2.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\bin\Debug\net7.0\Switch2.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\bin\Debug\net7.0\Switch2.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\refint\Switch2.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\Switch2.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Switch2\obj\Debug\net7.0\ref\Switch2.dll

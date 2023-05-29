@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\bin\Debug\net7.0\DoWhile.exe
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\bin\Debug\net7.0\DoWhile.dll
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.dll
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll

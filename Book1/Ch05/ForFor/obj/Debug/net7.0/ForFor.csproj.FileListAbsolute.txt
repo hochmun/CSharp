@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\bin\Debug\net7.0\ForFor.exe
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\bin\Debug\net7.0\ForFor.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\bin\Debug\net7.0\ForFor.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\bin\Debug\net7.0\ForFor.dll
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\bin\Debug\net7.0\ForFor.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.dll
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\refint\ForFor.dll
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ForFor.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\ForFor\obj\Debug\net7.0\ref\ForFor.dll

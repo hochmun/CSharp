@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\bin\Debug\net7.0\InfiniteFor.exe
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\bin\Debug\net7.0\InfiniteFor.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\bin\Debug\net7.0\InfiniteFor.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\bin\Debug\net7.0\InfiniteFor.dll
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\bin\Debug\net7.0\InfiniteFor.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.dll
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\refint\InfiniteFor.dll
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\InfiniteFor.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\InfiniteFor\obj\Debug\net7.0\ref\InfiniteFor.dll

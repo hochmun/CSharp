@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\bin\Debug\net7.0\IfIf.exe
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\bin\Debug\net7.0\IfIf.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\bin\Debug\net7.0\IfIf.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\bin\Debug\net7.0\IfIf.dll
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\bin\Debug\net7.0\IfIf.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.dll
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\refint\IfIf.dll
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\IfIf.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\IfIf\obj\Debug\net7.0\ref\IfIf.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\bin\Debug\net7.0\Goto.exe
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\bin\Debug\net7.0\Goto.deps.json
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\bin\Debug\net7.0\Goto.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\bin\Debug\net7.0\Goto.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\bin\Debug\net7.0\Goto.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\refint\Goto.dll
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.pdb
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\Goto.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch05\Goto\obj\Debug\net7.0\ref\Goto.dll
