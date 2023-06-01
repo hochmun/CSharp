@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\bin\Debug\net7.0\SwapByValue.exe
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\bin\Debug\net7.0\SwapByValue.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\bin\Debug\net7.0\SwapByValue.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\bin\Debug\net7.0\SwapByValue.dll
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\bin\Debug\net7.0\SwapByValue.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.dll
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\refint\SwapByValue.dll
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\SwapByValue.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\SwapByValue\obj\Debug\net7.0\ref\SwapByValue.dll

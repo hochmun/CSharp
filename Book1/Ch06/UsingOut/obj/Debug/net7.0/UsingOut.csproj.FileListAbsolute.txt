@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\bin\Debug\net7.0\UsingOut.exe
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\bin\Debug\net7.0\UsingOut.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\bin\Debug\net7.0\UsingOut.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\bin\Debug\net7.0\UsingOut.dll
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\bin\Debug\net7.0\UsingOut.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.dll
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\refint\UsingOut.dll
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\UsingOut.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\UsingOut\obj\Debug\net7.0\ref\UsingOut.dll

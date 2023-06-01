@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\bin\Debug\net7.0\LocalFunction.exe
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\bin\Debug\net7.0\LocalFunction.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\bin\Debug\net7.0\LocalFunction.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\bin\Debug\net7.0\LocalFunction.dll
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\bin\Debug\net7.0\LocalFunction.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.dll
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\refint\LocalFunction.dll
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\LocalFunction.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\LocalFunction\obj\Debug\net7.0\ref\LocalFunction.dll

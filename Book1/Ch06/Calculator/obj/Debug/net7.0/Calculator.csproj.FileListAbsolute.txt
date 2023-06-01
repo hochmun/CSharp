@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\bin\Debug\net7.0\Calculator.exe
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Calculator\obj\Debug\net7.0\ref\Calculator.dll

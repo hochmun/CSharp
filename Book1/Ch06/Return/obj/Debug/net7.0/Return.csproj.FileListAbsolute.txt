@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\Return\bin\Debug\net7.0\Return.exe
+D:\eclipse-workspace\C#\Book1\Ch06\Return\bin\Debug\net7.0\Return.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\Return\bin\Debug\net7.0\Return.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\Return\bin\Debug\net7.0\Return.dll
+D:\eclipse-workspace\C#\Book1\Ch06\Return\bin\Debug\net7.0\Return.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.dll
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\refint\Return.dll
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\Return.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\Return\obj\Debug\net7.0\ref\Return.dll

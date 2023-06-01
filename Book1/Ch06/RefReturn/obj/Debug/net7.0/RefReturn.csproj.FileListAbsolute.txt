@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\bin\Debug\net7.0\RefReturn.exe
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\bin\Debug\net7.0\RefReturn.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\bin\Debug\net7.0\RefReturn.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\bin\Debug\net7.0\RefReturn.dll
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\bin\Debug\net7.0\RefReturn.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.dll
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\refint\RefReturn.dll
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\RefReturn.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\RefReturn\obj\Debug\net7.0\ref\RefReturn.dll

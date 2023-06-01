@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\bin\Debug\net7.0\NamedParameter.exe
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\bin\Debug\net7.0\NamedParameter.deps.json
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\bin\Debug\net7.0\NamedParameter.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\bin\Debug\net7.0\NamedParameter.dll
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\bin\Debug\net7.0\NamedParameter.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.dll
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\refint\NamedParameter.dll
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.pdb
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\NamedParameter.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch06\NamedParameter\obj\Debug\net7.0\ref\NamedParameter.dll
