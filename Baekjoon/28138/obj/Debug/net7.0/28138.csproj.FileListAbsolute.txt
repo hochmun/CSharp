@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Baekjoon\28138\bin\Debug\net7.0\28138.exe
+D:\eclipse-workspace\C#\Baekjoon\28138\bin\Debug\net7.0\28138.deps.json
+D:\eclipse-workspace\C#\Baekjoon\28138\bin\Debug\net7.0\28138.runtimeconfig.json
+D:\eclipse-workspace\C#\Baekjoon\28138\bin\Debug\net7.0\28138.dll
+D:\eclipse-workspace\C#\Baekjoon\28138\bin\Debug\net7.0\28138.pdb
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.dll
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\refint\28138.dll
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.pdb
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\28138.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Baekjoon\28138\obj\Debug\net7.0\ref\28138.dll
