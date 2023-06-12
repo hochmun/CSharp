@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.exe
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.dll
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.dll
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\refint\ExtensionMethod.dll
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\ExtensionMethod\obj\Debug\net7.0\ref\ExtensionMethod.dll

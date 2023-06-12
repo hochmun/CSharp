@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\bin\Debug\net7.0\PartialClass.exe
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\bin\Debug\net7.0\PartialClass.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\bin\Debug\net7.0\PartialClass.dll
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\bin\Debug\net7.0\PartialClass.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.dll
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\refint\PartialClass.dll
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\PartialClass\obj\Debug\net7.0\ref\PartialClass.dll

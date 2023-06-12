@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\bin\Debug\net7.0\Inheritance.exe
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\bin\Debug\net7.0\Inheritance.dll
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.dll
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll

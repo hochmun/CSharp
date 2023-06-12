@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\bin\Debug\net7.0\AccessModifier.exe
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\bin\Debug\net7.0\AccessModifier.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\bin\Debug\net7.0\AccessModifier.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\bin\Debug\net7.0\AccessModifier.dll
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\bin\Debug\net7.0\AccessModifier.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.dll
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\refint\AccessModifier.dll
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\AccessModifier.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\AccessModifier\obj\Debug\net7.0\ref\AccessModifier.dll

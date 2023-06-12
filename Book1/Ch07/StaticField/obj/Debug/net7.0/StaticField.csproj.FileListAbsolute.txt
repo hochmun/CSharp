@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\bin\Debug\net7.0\StaticField.exe
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\bin\Debug\net7.0\StaticField.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\bin\Debug\net7.0\StaticField.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\bin\Debug\net7.0\StaticField.dll
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\bin\Debug\net7.0\StaticField.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.dll
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\refint\StaticField.dll
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\StaticField.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\StaticField\obj\Debug\net7.0\ref\StaticField.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\bin\Debug\net7.0\TypeCasting.exe
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\bin\Debug\net7.0\TypeCasting.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\bin\Debug\net7.0\TypeCasting.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\bin\Debug\net7.0\TypeCasting.dll
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\bin\Debug\net7.0\TypeCasting.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.dll
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\refint\TypeCasting.dll
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\TypeCasting.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\TypeCasting\obj\Debug\net7.0\ref\TypeCasting.dll

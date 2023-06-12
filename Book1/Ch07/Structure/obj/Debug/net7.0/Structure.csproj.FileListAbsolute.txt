@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\bin\Debug\net7.0\Structure.exe
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\bin\Debug\net7.0\Structure.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\bin\Debug\net7.0\Structure.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\bin\Debug\net7.0\Structure.dll
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\bin\Debug\net7.0\Structure.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.dll
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\refint\Structure.dll
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\Structure.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\Structure\obj\Debug\net7.0\ref\Structure.dll

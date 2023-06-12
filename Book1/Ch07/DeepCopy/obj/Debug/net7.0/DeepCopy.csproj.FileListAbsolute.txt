@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\bin\Debug\net7.0\DeepCopy.exe
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\bin\Debug\net7.0\DeepCopy.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\bin\Debug\net7.0\DeepCopy.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\bin\Debug\net7.0\DeepCopy.dll
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\bin\Debug\net7.0\DeepCopy.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.dll
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\refint\DeepCopy.dll
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\DeepCopy.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\DeepCopy\obj\Debug\net7.0\ref\DeepCopy.dll

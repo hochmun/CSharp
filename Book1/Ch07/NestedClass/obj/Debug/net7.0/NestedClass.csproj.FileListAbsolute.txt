@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\bin\Debug\net7.0\NestedClass.exe
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\bin\Debug\net7.0\NestedClass.deps.json
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\bin\Debug\net7.0\NestedClass.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\bin\Debug\net7.0\NestedClass.dll
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\bin\Debug\net7.0\NestedClass.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.dll
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\refint\NestedClass.dll
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.pdb
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\NestedClass.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch07\NestedClass\obj\Debug\net7.0\ref\NestedClass.dll

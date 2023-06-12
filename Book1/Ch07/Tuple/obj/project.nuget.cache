@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Td2K1GOA7PmDQfKHzK0wFbwK364ngFO11TqfIdO8o4lmEdIVK9JC+OlYyEMS0emThkflfSlmfqYSB4UhAi1wKQ==",
+  "success": true,
+  "projectFilePath": "D:\\eclipse-workspace\\C#\\Book1\\Ch07\\Tuple\\Tuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me034\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
