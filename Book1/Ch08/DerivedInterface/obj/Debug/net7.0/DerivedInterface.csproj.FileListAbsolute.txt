@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\bin\Debug\net7.0\DerivedInterface.exe
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\bin\Debug\net7.0\DerivedInterface.deps.json
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\bin\Debug\net7.0\DerivedInterface.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\bin\Debug\net7.0\DerivedInterface.dll
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\bin\Debug\net7.0\DerivedInterface.pdb
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.dll
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\refint\DerivedInterface.dll
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.pdb
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\DerivedInterface.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch08\DerivedInterface\obj\Debug\net7.0\ref\DerivedInterface.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\bin\Debug\net7.0\MultiInterfaceInheritance.exe
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\bin\Debug\net7.0\MultiInterfaceInheritance.deps.json
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\bin\Debug\net7.0\MultiInterfaceInheritance.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\bin\Debug\net7.0\MultiInterfaceInheritance.dll
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\bin\Debug\net7.0\MultiInterfaceInheritance.pdb
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.dll
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\refint\MultiInterfaceInheritance.dll
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.pdb
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\MultiInterfaceInheritance.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch08\MultiInterfaceInheritance\obj\Debug\net7.0\ref\MultiInterfaceInheritance.dll

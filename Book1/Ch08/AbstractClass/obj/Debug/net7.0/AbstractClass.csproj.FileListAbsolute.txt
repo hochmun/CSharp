@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\bin\Debug\net7.0\AbstractClass.exe
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\bin\Debug\net7.0\AbstractClass.deps.json
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\bin\Debug\net7.0\AbstractClass.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\bin\Debug\net7.0\AbstractClass.dll
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\bin\Debug\net7.0\AbstractClass.pdb
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.dll
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\refint\AbstractClass.dll
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.pdb
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\AbstractClass.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch08\AbstractClass\obj\Debug\net7.0\ref\AbstractClass.dll
