@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\bin\Debug\net7.0\AutoImplementedProperty.exe
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\bin\Debug\net7.0\AutoImplementedProperty.deps.json
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\bin\Debug\net7.0\AutoImplementedProperty.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\bin\Debug\net7.0\AutoImplementedProperty.dll
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\bin\Debug\net7.0\AutoImplementedProperty.pdb
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.dll
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\refint\AutoImplementedProperty.dll
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.pdb
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\AutoImplementedProperty.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch09\AutoImplementedProperty\obj\Debug\net7.0\ref\AutoImplementedProperty.dll

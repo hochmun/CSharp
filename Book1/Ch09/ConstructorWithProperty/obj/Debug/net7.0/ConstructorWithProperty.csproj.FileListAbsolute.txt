@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\bin\Debug\net7.0\ConstructorWithProperty.exe
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\bin\Debug\net7.0\ConstructorWithProperty.deps.json
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\bin\Debug\net7.0\ConstructorWithProperty.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\bin\Debug\net7.0\ConstructorWithProperty.dll
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\bin\Debug\net7.0\ConstructorWithProperty.pdb
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.dll
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\refint\ConstructorWithProperty.dll
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.pdb
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ConstructorWithProperty.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch09\ConstructorWithProperty\obj\Debug\net7.0\ref\ConstructorWithProperty.dll

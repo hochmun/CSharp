@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch09\Property\bin\Debug\net7.0\Property.exe
+D:\eclipse-workspace\C#\Book1\Ch09\Property\bin\Debug\net7.0\Property.deps.json
+D:\eclipse-workspace\C#\Book1\Ch09\Property\bin\Debug\net7.0\Property.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch09\Property\bin\Debug\net7.0\Property.dll
+D:\eclipse-workspace\C#\Book1\Ch09\Property\bin\Debug\net7.0\Property.pdb
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.dll
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\refint\Property.dll
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.pdb
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\Property.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch09\Property\obj\Debug\net7.0\ref\Property.dll
