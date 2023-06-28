@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\bin\Debug\net7.0\Indexer.exe
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\bin\Debug\net7.0\Indexer.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\bin\Debug\net7.0\Indexer.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\bin\Debug\net7.0\Indexer.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\bin\Debug\net7.0\Indexer.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\refint\Indexer.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\Indexer.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Indexer\obj\Debug\net7.0\ref\Indexer.dll

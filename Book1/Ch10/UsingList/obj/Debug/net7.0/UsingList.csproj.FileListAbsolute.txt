@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\bin\Debug\net7.0\UsingList.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\bin\Debug\net7.0\UsingList.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\bin\Debug\net7.0\UsingList.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\bin\Debug\net7.0\UsingList.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\bin\Debug\net7.0\UsingList.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\refint\UsingList.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\UsingList.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingList\obj\Debug\net7.0\ref\UsingList.dll

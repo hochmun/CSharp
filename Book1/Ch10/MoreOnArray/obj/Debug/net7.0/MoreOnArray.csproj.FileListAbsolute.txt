@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\bin\Debug\net7.0\MoreOnArray.exe
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\bin\Debug\net7.0\MoreOnArray.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\bin\Debug\net7.0\MoreOnArray.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\bin\Debug\net7.0\MoreOnArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\bin\Debug\net7.0\MoreOnArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\refint\MoreOnArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\MoreOnArray.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\MoreOnArray\obj\Debug\net7.0\ref\MoreOnArray.dll

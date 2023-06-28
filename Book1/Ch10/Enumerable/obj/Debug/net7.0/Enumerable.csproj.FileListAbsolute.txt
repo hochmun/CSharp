@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\bin\Debug\net7.0\Enumerable.exe
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\bin\Debug\net7.0\Enumerable.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\bin\Debug\net7.0\Enumerable.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\bin\Debug\net7.0\Enumerable.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\bin\Debug\net7.0\Enumerable.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\refint\Enumerable.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\Enumerable.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Enumerable\obj\Debug\net7.0\ref\Enumerable.dll

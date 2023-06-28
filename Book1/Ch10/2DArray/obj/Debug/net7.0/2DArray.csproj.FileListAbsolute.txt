@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\bin\Debug\net7.0\2DArray.exe
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\bin\Debug\net7.0\2DArray.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\bin\Debug\net7.0\2DArray.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\bin\Debug\net7.0\2DArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\bin\Debug\net7.0\2DArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\refint\2DArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\2DArray.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\2DArray\obj\Debug\net7.0\ref\2DArray.dll

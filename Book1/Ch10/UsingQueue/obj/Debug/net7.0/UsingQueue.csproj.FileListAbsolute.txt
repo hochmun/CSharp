@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\bin\Debug\net7.0\UsingQueue.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\bin\Debug\net7.0\UsingQueue.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\bin\Debug\net7.0\UsingQueue.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\bin\Debug\net7.0\UsingQueue.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\bin\Debug\net7.0\UsingQueue.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\refint\UsingQueue.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\UsingQueue.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingQueue\obj\Debug\net7.0\ref\UsingQueue.dll

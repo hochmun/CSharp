@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\bin\Debug\net7.0\UsingStack.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\bin\Debug\net7.0\UsingStack.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\bin\Debug\net7.0\UsingStack.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\bin\Debug\net7.0\UsingStack.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\bin\Debug\net7.0\UsingStack.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\refint\UsingStack.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\UsingStack.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingStack\obj\Debug\net7.0\ref\UsingStack.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\bin\Debug\net7.0\InitializingCollections.exe
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\bin\Debug\net7.0\InitializingCollections.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\bin\Debug\net7.0\InitializingCollections.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\bin\Debug\net7.0\InitializingCollections.dll
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\bin\Debug\net7.0\InitializingCollections.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.dll
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\refint\InitializingCollections.dll
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\InitializingCollections.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\InitializingCollections\obj\Debug\net7.0\ref\InitializingCollections.dll

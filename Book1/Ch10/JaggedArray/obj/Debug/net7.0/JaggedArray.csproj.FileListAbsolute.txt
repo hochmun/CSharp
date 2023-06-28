@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\bin\Debug\net7.0\JaggedArray.exe
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\bin\Debug\net7.0\JaggedArray.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\bin\Debug\net7.0\JaggedArray.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\bin\Debug\net7.0\JaggedArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\bin\Debug\net7.0\JaggedArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\refint\JaggedArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\JaggedArray.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\JaggedArray\obj\Debug\net7.0\ref\JaggedArray.dll

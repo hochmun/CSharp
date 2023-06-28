@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\bin\Debug\net7.0\Yield.exe
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\bin\Debug\net7.0\Yield.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\bin\Debug\net7.0\Yield.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\bin\Debug\net7.0\Yield.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\bin\Debug\net7.0\Yield.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\refint\Yield.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\Yield.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Yield\obj\Debug\net7.0\ref\Yield.dll

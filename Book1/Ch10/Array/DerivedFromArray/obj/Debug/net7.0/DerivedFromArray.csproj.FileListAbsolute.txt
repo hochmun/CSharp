@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\bin\Debug\net7.0\DerivedFromArray.exe
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\bin\Debug\net7.0\DerivedFromArray.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\bin\Debug\net7.0\DerivedFromArray.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\bin\Debug\net7.0\DerivedFromArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\bin\Debug\net7.0\DerivedFromArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\refint\DerivedFromArray.dll
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\DerivedFromArray.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\Array\DerivedFromArray\obj\Debug\net7.0\ref\DerivedFromArray.dll

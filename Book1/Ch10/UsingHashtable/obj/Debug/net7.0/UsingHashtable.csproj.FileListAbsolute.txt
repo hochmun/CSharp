@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\bin\Debug\net7.0\UsingHashtable.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\bin\Debug\net7.0\UsingHashtable.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\bin\Debug\net7.0\UsingHashtable.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\bin\Debug\net7.0\UsingHashtable.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\bin\Debug\net7.0\UsingHashtable.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\refint\UsingHashtable.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\UsingHashtable.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingHashtable\obj\Debug\net7.0\ref\UsingHashtable.dll
