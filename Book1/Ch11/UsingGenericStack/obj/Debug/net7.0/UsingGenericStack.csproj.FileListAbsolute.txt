@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\bin\Debug\net7.0\UsingGenericStack.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\bin\Debug\net7.0\UsingGenericStack.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\bin\Debug\net7.0\UsingGenericStack.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\bin\Debug\net7.0\UsingGenericStack.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\bin\Debug\net7.0\UsingGenericStack.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\refint\UsingGenericStack.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\UsingGenericStack.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericStack\obj\Debug\net7.0\ref\UsingGenericStack.dll

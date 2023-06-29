@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\bin\Debug\net7.0\ConstrainsOnTypeParameters.exe
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\bin\Debug\net7.0\ConstrainsOnTypeParameters.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\bin\Debug\net7.0\ConstrainsOnTypeParameters.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\bin\Debug\net7.0\ConstrainsOnTypeParameters.dll
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\bin\Debug\net7.0\ConstrainsOnTypeParameters.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.dll
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\refint\ConstrainsOnTypeParameters.dll
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ConstrainsOnTypeParameters.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\ConstrainsOnTypeParameters\obj\Debug\net7.0\ref\ConstrainsOnTypeParameters.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\bin\Debug\net7.0\UsingGenericQueue.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\bin\Debug\net7.0\UsingGenericQueue.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\bin\Debug\net7.0\UsingGenericQueue.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\bin\Debug\net7.0\UsingGenericQueue.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\bin\Debug\net7.0\UsingGenericQueue.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\refint\UsingGenericQueue.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\UsingGenericQueue.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericQueue\obj\Debug\net7.0\ref\UsingGenericQueue.dll

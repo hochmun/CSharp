@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\bin\Debug\net7.0\UsingGenericList.exe
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\bin\Debug\net7.0\UsingGenericList.deps.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\bin\Debug\net7.0\UsingGenericList.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\bin\Debug\net7.0\UsingGenericList.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\bin\Debug\net7.0\UsingGenericList.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\refint\UsingGenericList.dll
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.pdb
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\UsingGenericList.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch10\UsingGenericList\obj\Debug\net7.0\ref\UsingGenericList.dll
