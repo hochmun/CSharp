@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\bin\Debug\net7.0\TryCatch.exe
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\bin\Debug\net7.0\TryCatch.dll
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.dll
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch12\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll

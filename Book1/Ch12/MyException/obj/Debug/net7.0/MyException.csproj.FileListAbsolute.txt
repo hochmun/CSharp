@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\bin\Debug\net7.0\MyException.exe
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\bin\Debug\net7.0\MyException.deps.json
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\bin\Debug\net7.0\MyException.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\bin\Debug\net7.0\MyException.dll
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\bin\Debug\net7.0\MyException.pdb
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.dll
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\refint\MyException.dll
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.pdb
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\MyException.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch12\MyException\obj\Debug\net7.0\ref\MyException.dll
