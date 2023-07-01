@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\bin\Debug\net7.0\UsingCallback.exe
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\bin\Debug\net7.0\UsingCallback.deps.json
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\bin\Debug\net7.0\UsingCallback.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\bin\Debug\net7.0\UsingCallback.dll
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\bin\Debug\net7.0\UsingCallback.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.dll
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\refint\UsingCallback.dll
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\UsingCallback.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch13\UsingCallback\obj\Debug\net7.0\ref\UsingCallback.dll

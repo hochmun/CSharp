@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\bin\Debug\net7.0\GenericDelegate.exe
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\bin\Debug\net7.0\GenericDelegate.deps.json
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\bin\Debug\net7.0\GenericDelegate.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\bin\Debug\net7.0\GenericDelegate.dll
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\bin\Debug\net7.0\GenericDelegate.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.dll
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\refint\GenericDelegate.dll
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\GenericDelegate.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch13\GenericDelegate\obj\Debug\net7.0\ref\GenericDelegate.dll

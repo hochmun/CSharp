@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\bin\Debug\net7.0\EventTest.exe
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\bin\Debug\net7.0\EventTest.deps.json
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\bin\Debug\net7.0\EventTest.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\bin\Debug\net7.0\EventTest.dll
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\bin\Debug\net7.0\EventTest.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.dll
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\refint\EventTest.dll
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\EventTest.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch13\EventTest\obj\Debug\net7.0\ref\EventTest.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\bin\Debug\net7.0\Delegate.exe
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\bin\Debug\net7.0\Delegate.deps.json
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\bin\Debug\net7.0\Delegate.dll
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\bin\Debug\net7.0\Delegate.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.dll
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.pdb
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch13\Delegate\obj\Debug\net7.0\ref\Delegate.dll
