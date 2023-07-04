@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\bin\Debug\net7.0\StatementLambda.exe
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\bin\Debug\net7.0\StatementLambda.deps.json
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\bin\Debug\net7.0\StatementLambda.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\bin\Debug\net7.0\StatementLambda.dll
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\bin\Debug\net7.0\StatementLambda.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.dll
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\refint\StatementLambda.dll
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\StatementLambda.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch14\StatementLambda\obj\Debug\net7.0\ref\StatementLambda.dll

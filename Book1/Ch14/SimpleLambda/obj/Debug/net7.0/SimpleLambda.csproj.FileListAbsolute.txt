@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\bin\Debug\net7.0\SimpleLambda.exe
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\bin\Debug\net7.0\SimpleLambda.deps.json
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\bin\Debug\net7.0\SimpleLambda.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\bin\Debug\net7.0\SimpleLambda.dll
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\bin\Debug\net7.0\SimpleLambda.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.dll
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\refint\SimpleLambda.dll
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\SimpleLambda.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch14\SimpleLambda\obj\Debug\net7.0\ref\SimpleLambda.dll

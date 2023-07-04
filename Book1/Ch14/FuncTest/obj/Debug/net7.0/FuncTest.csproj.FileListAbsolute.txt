@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\bin\Debug\net7.0\FuncTest.exe
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\bin\Debug\net7.0\FuncTest.deps.json
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\bin\Debug\net7.0\FuncTest.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\bin\Debug\net7.0\FuncTest.dll
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\bin\Debug\net7.0\FuncTest.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.dll
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\refint\FuncTest.dll
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\FuncTest.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch14\FuncTest\obj\Debug\net7.0\ref\FuncTest.dll

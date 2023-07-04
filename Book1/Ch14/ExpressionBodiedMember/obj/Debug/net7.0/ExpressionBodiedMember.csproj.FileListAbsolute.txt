@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.exe
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.deps.json
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.dll
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.dll
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\refint\ExpressionBodiedMember.dll
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ExpressionBodiedMember\obj\Debug\net7.0\ref\ExpressionBodiedMember.dll

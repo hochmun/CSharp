@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\bin\Debug\net7.0\ActionTest.exe
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\bin\Debug\net7.0\ActionTest.deps.json
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\bin\Debug\net7.0\ActionTest.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\bin\Debug\net7.0\ActionTest.dll
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\bin\Debug\net7.0\ActionTest.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.dll
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\refint\ActionTest.dll
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.pdb
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ActionTest.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch14\ActionTest\obj\Debug\net7.0\ref\ActionTest.dll
