@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch15\Join\bin\Debug\net7.0\Join.exe
+D:\eclipse-workspace\C#\Book1\Ch15\Join\bin\Debug\net7.0\Join.deps.json
+D:\eclipse-workspace\C#\Book1\Ch15\Join\bin\Debug\net7.0\Join.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch15\Join\bin\Debug\net7.0\Join.dll
+D:\eclipse-workspace\C#\Book1\Ch15\Join\bin\Debug\net7.0\Join.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.dll
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\refint\Join.dll
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\Join.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch15\Join\obj\Debug\net7.0\ref\Join.dll

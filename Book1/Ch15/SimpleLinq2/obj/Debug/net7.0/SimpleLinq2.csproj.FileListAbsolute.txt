@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\bin\Debug\net7.0\SimpleLinq2.exe
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\bin\Debug\net7.0\SimpleLinq2.deps.json
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\bin\Debug\net7.0\SimpleLinq2.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\bin\Debug\net7.0\SimpleLinq2.dll
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\bin\Debug\net7.0\SimpleLinq2.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.dll
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\refint\SimpleLinq2.dll
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\SimpleLinq2.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch15\SimpleLinq2\obj\Debug\net7.0\ref\SimpleLinq2.dll

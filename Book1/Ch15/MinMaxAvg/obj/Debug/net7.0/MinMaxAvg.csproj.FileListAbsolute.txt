@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\bin\Debug\net7.0\MinMaxAvg.exe
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\bin\Debug\net7.0\MinMaxAvg.deps.json
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\bin\Debug\net7.0\MinMaxAvg.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\bin\Debug\net7.0\MinMaxAvg.dll
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\bin\Debug\net7.0\MinMaxAvg.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.dll
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\refint\MinMaxAvg.dll
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\MinMaxAvg.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch15\MinMaxAvg\obj\Debug\net7.0\ref\MinMaxAvg.dll

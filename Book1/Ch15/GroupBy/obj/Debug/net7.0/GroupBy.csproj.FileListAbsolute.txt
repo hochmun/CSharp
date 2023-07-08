@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\bin\Debug\net7.0\GroupBy.exe
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\bin\Debug\net7.0\GroupBy.deps.json
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\bin\Debug\net7.0\GroupBy.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\bin\Debug\net7.0\GroupBy.dll
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\bin\Debug\net7.0\GroupBy.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.dll
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\refint\GroupBy.dll
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.pdb
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\GroupBy.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch15\GroupBy\obj\Debug\net7.0\ref\GroupBy.dll
