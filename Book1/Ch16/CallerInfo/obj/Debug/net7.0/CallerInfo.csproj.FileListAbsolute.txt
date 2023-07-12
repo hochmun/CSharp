@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\bin\Debug\net7.0\CallerInfo.exe
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\bin\Debug\net7.0\CallerInfo.deps.json
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\bin\Debug\net7.0\CallerInfo.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\bin\Debug\net7.0\CallerInfo.dll
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\bin\Debug\net7.0\CallerInfo.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.dll
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\refint\CallerInfo.dll
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\CallerInfo.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch16\CallerInfo\obj\Debug\net7.0\ref\CallerInfo.dll

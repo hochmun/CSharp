@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\bin\Debug\net7.0\DynamicInstance.exe
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\bin\Debug\net7.0\DynamicInstance.deps.json
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\bin\Debug\net7.0\DynamicInstance.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\bin\Debug\net7.0\DynamicInstance.dll
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\bin\Debug\net7.0\DynamicInstance.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.dll
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\refint\DynamicInstance.dll
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\DynamicInstance.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch16\DynamicInstance\obj\Debug\net7.0\ref\DynamicInstance.dll

@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\bin\Debug\net7.0\BasicAttribute.exe
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\bin\Debug\net7.0\BasicAttribute.deps.json
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\bin\Debug\net7.0\BasicAttribute.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\bin\Debug\net7.0\BasicAttribute.dll
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\bin\Debug\net7.0\BasicAttribute.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.dll
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\refint\BasicAttribute.dll
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\BasicAttribute.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch16\BasicAttribute\obj\Debug\net7.0\ref\BasicAttribute.dll

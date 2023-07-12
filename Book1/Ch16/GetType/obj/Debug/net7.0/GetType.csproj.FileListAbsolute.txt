@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\bin\Debug\net7.0\GetType.exe
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\bin\Debug\net7.0\GetType.deps.json
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\bin\Debug\net7.0\GetType.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\bin\Debug\net7.0\GetType.dll
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\bin\Debug\net7.0\GetType.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.dll
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\refint\GetType.dll
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\GetType.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch16\GetType\obj\Debug\net7.0\ref\GetType.dll

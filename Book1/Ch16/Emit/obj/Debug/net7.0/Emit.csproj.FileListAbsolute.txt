@@ -1,0 +1,15 @@
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.csproj.AssemblyReference.cache
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.GeneratedMSBuildEditorConfig.editorconfig
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.AssemblyInfoInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.AssemblyInfo.cs
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\bin\Debug\net7.0\Emit.exe
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\bin\Debug\net7.0\Emit.deps.json
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\bin\Debug\net7.0\Emit.runtimeconfig.json
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\bin\Debug\net7.0\Emit.dll
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\bin\Debug\net7.0\Emit.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.dll
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\refint\Emit.dll
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.pdb
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\Emit.genruntimeconfig.cache
+D:\eclipse-workspace\C#\Book1\Ch16\Emit\obj\Debug\net7.0\ref\Emit.dll
